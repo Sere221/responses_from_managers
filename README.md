@@ -15,5 +15,5 @@
 ### Решение:
 1. [https://datalens.yandex/7tg5wwtwjswat] или [код](sql_answer.sql)
 2. [https://datalens.yandex/cyltm033e680y]
-3. 
+3. [Работа с Pandas в Google Colab](py_answer.ipynb)
 
