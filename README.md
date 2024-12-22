@@ -13,7 +13,7 @@
 3. Решить первое задание при помощи `Python` и библиотеки `pandas`
 
 ### Решение:
-1. [https://datalens.yandex.cloud/ql/7tg5wwtwjswat-sql1]
+1. [https://datalens.yandex/7tg5wwtwjswat]
 2. [https://datalens.yandex/cyltm033e680y]
 3. 
 
