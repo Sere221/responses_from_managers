@@ -14,6 +14,6 @@
 
 ### Решение:
 1. [https://datalens.yandex.cloud/ql/7tg5wwtwjswat-sql1]
-2. [https://datalens.yandex.cloud/ql/cyltm033e680y-sql2]
+2. [https://datalens.yandex/cyltm033e680y]
 3. 
 
